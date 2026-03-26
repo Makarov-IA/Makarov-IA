@@ -30,3 +30,7 @@ Python • PyTorch • С/С++ • Containerization & Virtualization • Linux
 
 Telegram: [@Ilyasova121](https://t.me/Ilyasova121)  
 Email: [ilyai.2020@mail.ru](mailto:ilyai.2020@mail.ru)
+
+---
+
+![Visitors](https://komarev.com/ghpvc/?username=Makarov-IA)
