@@ -33,11 +33,11 @@ Python • PyTorch • С/С++ • Containerization & Virtualization • Linux
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Makarov-IA&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makarov-IA&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makarov-IA&layout=compact&title_color=ffffff&text_color=ffffff)
 
 ---
 
-## Links
+## Contacts
 
-[Telegram](https://t.me/Ilyasova121)
+Telegram: [@Ilyasova121](https://t.me/Ilyasova121)  
 Email: [ilyai.2020@mail.ru](mailto:ilyai.2020@mail.ru)
