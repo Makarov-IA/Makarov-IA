@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ilya%20Makarov&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4B2C5E,100:FF4B2B&height=250&section=header&text=Ilya%20Makarov&fontSize=50)
 
 # Ilya Makarov
 
@@ -8,7 +8,7 @@ Interested in:
 
 - Large Language Models
 - Diffusion Language Models
-- LLM alignment (DPO / RLHF)
+- LLM alignment
 - LLM agents
 - generative models
 
