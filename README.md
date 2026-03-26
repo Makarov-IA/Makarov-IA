@@ -39,5 +39,5 @@ Python • PyTorch • С/С++ • Containerization & Virtualization • Linux
 
 ## Links
 
-Telegram: @Ilyasova121  
-Email: ilyai.2020@mail.ru
+[Telegram](https://t.me/Ilyasova121)
+Email: [ilyai.2020@mail.ru](mailto:ilyai.2020@mail.ru)
