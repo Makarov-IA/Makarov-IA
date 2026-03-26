@@ -29,14 +29,6 @@ Python • PyTorch • С/С++ • Containerization & Virtualization • Linux
 
 ---
 
-## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Makarov-IA&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makarov-IA&layout=compact&theme=tokyonight)
-
----
-
 ## Contacts
 
 Telegram: [@Ilyasova121](https://t.me/Ilyasova121)  
