@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:4B2C5E,100:FF4B2B&height=250&section=header&text=Ilya%20Makarov&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4B2C5E,100:FF4B2B&height=250&section=header&text=Ilya%20Makarov&fontSize=50&fontColor=ffffff)
 
 # Ilya Makarov
 
@@ -33,7 +33,7 @@ Python • PyTorch • С/С++ • Containerization & Virtualization • Linux
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Makarov-IA&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makarov-IA&layout=compact&title_color=ffffff&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Makarov-IA&layout=compact&theme=tokyonight)
 
 ---
 
